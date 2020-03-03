@@ -1,3 +1,3 @@
 = Machine Learning Models for Hands-on Section
 
-This models were directly download from their official repository for learning purpose only.
+These models were directly download from their official repository for learning purpose only.
